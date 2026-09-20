@@ -497,7 +497,7 @@ Student-Fee-Management-System/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/Student-Fee-Management-System.git
+git clone https://github.com/furqanzubair209-cell/Student-Fee-Management-System.git
 ```
 
 **2. Navigate to the project directory**
