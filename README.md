@@ -33,6 +33,7 @@ The system provides functionality for managing:
 The system provides an efficient alternative to manual fee management by reducing paperwork, minimizing errors, maintaining accurate financial records, and providing quick access to student and payment information.
 
 This project was developed as part of the BS Computer Science program at The Superior University, Lahore, during Spring 2026.
+> **Note:** This repository currently contains the project documentation (SRS, design and testing). Source code will be added in a later commit.
 
 ---
 
@@ -455,74 +456,6 @@ Future versions could extend the system with web, mobile, database, and online p
 
 ---
 
-## 📁 Project Structure
-
-```text
-Student-Fee-Management-System/
-│
-├── src/
-│   ├── main.cpp
-│   ├── authentication.cpp
-│   ├── students.cpp
-│   ├── semesters.cpp
-│   ├── fees.cpp
-│   ├── payments.cpp
-│   ├── dues.cpp
-│   ├── reports.cpp
-│   └── backup.cpp
-│
-├── data/
-│   ├── students.txt
-│   ├── fees.txt
-│   ├── payments.txt
-│   └── users.txt
-│
-├── backup/
-│
-├── documentation/
-│   ├── SRS.pdf
-│   ├── Project Report.pdf
-│   └── UML Diagrams/
-│
-├── README.md
-└── StudentFeeManagementSystem.cpp
-```
-
-> **Note:** The structure above represents the intended organization of the project. File and folder names can be adjusted according to the actual repository structure.
-
----
-
-## 🚀 How to Run
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/furqanzubair209-cell/Student-Fee-Management-System.git
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd Student-Fee-Management-System
-```
-
-**3. Compile the program**
-
-Using a compatible C++ compiler:
-
-```bash
-g++ StudentFeeManagementSystem.cpp -o StudentFeeManagementSystem
-```
-
-**4. Run the application**
-
-```bash
-StudentFeeManagementSystem.exe
-```
-
-Alternatively, open the project in Dev-C++, Code::Blocks, or Visual Studio and compile/run it from the IDE.
-
----
 
 ## 🧾 Example System Workflow
 
